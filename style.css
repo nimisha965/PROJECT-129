@@ -1,0 +1,15 @@
+body{
+    background-color: lightpink;
+}
+#update_score{
+    font-size: medium;
+    margin-left: 50px;
+}
+#update_time{
+    font-size: medium;
+    float: right;
+    margin-right:50px ;
+}
+#update_sketch{
+    text-decoration-color:red;
+}
